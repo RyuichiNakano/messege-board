@@ -7,3 +7,4 @@ class CreateMessages < ActiveRecord::Migration[5.2]
     end
   end
 end
+#ActiveRecord
